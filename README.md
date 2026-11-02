@@ -122,12 +122,19 @@ Aryan.say_hi()
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanjaiswal15&theme=tokyo-night&hide_border=true&area=true&custom_title=Aryan%27s%20Contribution%20Graph" width="100%" alt="activity graph" />
+  <img src="https://ghchart.rshah.org/58a6ff/Aryanjaiswal15" width="100%" alt="contribution chart" />
+</div>
+
+### 🧊 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aryanjaiswal15/Aryanjaiswal15/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 </div>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
+> Replace `REPO_NAME_1` and `REPO_NAME_2` with your actual repository names. Each card is clickable.
 
 <div align="center">
 <table>
@@ -194,7 +201,12 @@ flowchart LR
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryanjaiswal15&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="open source" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-DSA-8957e5?style=for-the-badge&logo=leetcode&logoColor=white" alt="problem solver" />
+  <img src="https://img.shields.io/badge/Multi--Language-Developer-f1c40f?style=for-the-badge&logo=codeforces&logoColor=black" alt="multi language" />
+  <img src="https://img.shields.io/badge/Cloud-Enthusiast-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="cloud" />
+  <br/>
+  <sub>Edit these badges to match your real achievements (hackathons, certifications, rankings).</sub>
 </div>
 
 <!-- ===================== QUOTE ===================== -->
@@ -204,17 +216,16 @@ flowchart LR
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </div>
 
-<!-- ===================== OPTIONAL: SNAKE ANIMATION =====================
-To enable the snake, create .github/workflows/snake.yml (see Claude's instructions),
-run it once, then uncomment the block below.
+<!-- ===================== SNAKE ANIMATION ===================== -->
+## 🐍 Snake Eating My Contributions
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryanjaiswal15/Aryanjaiswal15/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Aryanjaiswal15/Aryanjaiswal15/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryanjaiswal15/Aryanjaiswal15/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Aryanjaiswal15/Aryanjaiswal15/output/github-snake-dark.svg" />
   </picture>
 </div>
--->
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
